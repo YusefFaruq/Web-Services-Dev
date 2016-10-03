@@ -1,0 +1,14 @@
+<!-- Jack Huggart -->
+
+<users>
+    <user id="1">
+        <email>joebloggs@gmail.com</email>
+        <name>Joe Bloggs</name>
+        <password>mypassword</password>
+    </user>
+    <user id="2">
+        <email>johnsmith@gmail.com</email>
+        <name>John Smith</name>
+        <password>password123</password>
+    </user>
+</users>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<listings>
+    <listing>
+        <id>1</id>
+        <listingid>001</listingid>
+        <type>Whole house</type>
+        <location>Ryde</location>
+        <address>123 Fake St, Ryde, NSW</address>
+        <description>A whole house available in Ryde, NSW.</description>
+        <numguests>4</numguests>
+        <image></image>
+    </listing>
+    <listing>
+        <id>2</id> 
+        <listingid>002</listingid>
+        <type>Whole unit</type>
+        <location>Chatswood</location>
+        <address>456 Lane Ln, Chatswood, NSW</address>
+        <description>A whole unit available in Chatswood, NSW.</description>
+        <numguests>2</numguests>
+        <image></image>
+    </listing>
+    <listing>
+        <id>2</id>
+        <listingid>003</listingid>
+        <type>Bedroom</type>
+        <location>Penrith</location>
+        <address>789 Road Rd, Penrith, NSW</address>
+        <description>A bedroom available in an apartment in Penrith, NSW.</description>
+        <numguests>1</numguests>
+        <image></image>
+    </listing>
+</listings>
