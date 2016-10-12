@@ -1,18 +1,20 @@
 <!-- Jack Huggart -->
 
-<enquiries>
+<enquiries xmlns="http://www.rentapplication.uts.edu.au"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.rentapplication.uts.edu.au enquiries.xsd">
     <enquiry>
         <name>Jack Lastname</name>
         <email>jacklastname@gmail.com</email>
-        <listingid>001</listingid>
+        <listingid>1</listingid>
         <bookingdate>10/10/2016 - 15/10/2016</bookingdate>
         <message>Would your house be available at this time?</message>
     </enquiry>
     <enquiry>
         <name>Sam Hall</name>
         <email>sam.hall33@gmail.com</email>
-        <listingid>003</listingid>
+        <listingid>3</listingid>
         <bookingdate>27/11/2016 - 3/12/2016</bookingdate>
-        <message>Is the area loud at night?</message>
+        <message>Is the area of the bedroom loud at night?</message>
     </enquiry>
 </enquiries>
